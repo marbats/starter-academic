@@ -6,7 +6,7 @@ title: Maria Arbatskaya
 superuser: true
 
 # Role/position/tagline
-role: Assosiate Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,10 +29,10 @@ education:
     #year: 
   - course: MS in Economics
     institution: New Economic School
-    #year: 2009
+    #year:
   - course: BSc in Applied Mathemetics
     institution: Moscow State University
-    #year: 2008
+    #year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
