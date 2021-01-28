@@ -14,7 +14,7 @@ organizations:
   url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: MA 
+bio: XXX
 
 # Interests to show in About widget
 interests:
