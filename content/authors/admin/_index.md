@@ -14,7 +14,7 @@ organizations:
   url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Maria Arbatskaya has a diploma in Applied Mathematics from Moscow State University and M.A. in Economics from the New Economic School in Moscow. After receiving her Ph.D. in Economics at Indiana University, Bloomington, she has been appointed as an Assistant Professor at Emory University and later promoted to the Associate Professor. Her research and teaching interests are in Industrial Organization and Game Theory. Maria has published in many influential academic journals, including the RAND, the Journal of Law and Economics, the Journal of Economic Behavior & Organization, and the American Law and Economics Review. Her current research is on multi-dimensional contests and information transmission in a marketplace.   
+bio: MA 
 
 # Interests to show in About widget
 interests:
@@ -31,7 +31,7 @@ education:
   - course: MS in Economics
     institution: New Economic School
     #year:
-  - course: BSc in Applied Mathemetics
+  - course: BSc in Applied Mathematics
     institution: Moscow State University
     #year:
 
@@ -69,9 +69,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Maria Arbatskaya has a diploma in Applied Mathematics from Moscow State University and M.A. in Economics from the New Economic School in Moscow. After receiving her Ph.D. in Economics at Indiana University, Bloomington, she has been appointed as an Assistant Professor at Emory University and later promoted to the Associate Professor. Her research and teaching interests are in Industrial Organization and Game Theory. Maria has published in many influential academic journals, including the RAND, the Journal of Law and Economics, the Journal of Economic Behavior & Organization, and the American Law and Economics Review. Her current research is on multi-dimensional contests and information transmission in a marketplace.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
