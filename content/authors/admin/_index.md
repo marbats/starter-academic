@@ -68,7 +68,6 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
----
-Dr. Maria Arbatskaya has a diploma in Applied Mathematics from Moscow State University and M.A. in Economics from the New Economic School in Moscow. After receiving her Ph.D. in Economics at Indiana University, Bloomington, she has been appointed as an Assistant Professor at Emory University and later promoted to the Associate Professor. Her research and teaching interests are in Industrial Organization and Game Theory. Maria has published in many influential academic journals, including the RAND, the Journal of Law and Economics, the Journal of Economic Behavior & Organization, and the American Law and Economics Review. Her current research is on multi-dimensional contests and information transmission in a marketplace.
+---Dr. Maria Arbatskaya has a diploma in Applied Mathematics from Moscow State University and M.A. in Economics from the New Economic School in Moscow. After receiving her Ph.D. in Economics at Indiana University, Bloomington, she has been appointed as Assistant Professor at Emory University and later promoted to Associate Professor. Her research and teaching interests are in Industrial Organization and Game Theory. Maria has published in many influential academic journals, including the RAND, the Journal of Law and Economics, the Journal of Economic Behavior & Organization, and the American Law and Economics Review. Her current research is on multi-dimensional contests and information transmission in a marketplace.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
